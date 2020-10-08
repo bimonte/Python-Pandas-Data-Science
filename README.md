@@ -16,10 +16,8 @@ Para ficar bem à vontade e explorar esse repositório, você tem duas opções:
 * Fazer um fork dele (cópia) para o seu usuário. Confira como fazer isso aqui: https://help.github.com/en/github/getting-started-with-github/fork-a-repo .
 * Fazer o download clicando no botão verde "Code" e depois em "Download ZIP". Dessa forma, você terá todos os arquivos na sua máquina diretamente para edição e testes.
 
-Para instalar o Jupyter Notebook:	https://jupyter.readthedocs.io/en/latest/install.html
-
-Para instalar o pacote Pandas:		https://pandas.pydata.org/pandas-docs/stable/install.html
-
+Para instalar o Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html<br />
+Para instalar o pacote Pandas: https://pandas.pydata.org/pandas-docs/stable/install.html
 
 ## Para contextualizar
 Esse repositório acompanha meu vídeo "Usando o Pandas em problemas reais de Data Science".
