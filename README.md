@@ -17,6 +17,7 @@ Para ficar bem à vontade e explorar esse repositório, você tem duas opções:
 * Fazer o download clicando no botão verde "Code" e depois em "Download ZIP". Dessa forma, você terá todos os arquivos na sua máquina diretamente para edição e testes.
 
 Para instalar o Jupyter Notebook:	https://jupyter.readthedocs.io/en/latest/install.html
+
 Para instalar o pacote Pandas:		https://pandas.pydata.org/pandas-docs/stable/install.html
 
 
