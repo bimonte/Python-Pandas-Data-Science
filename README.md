@@ -6,9 +6,11 @@ A internet é nossa maior aliada no processo de aprendizado. Existem infinitas f
 
 Entretanto, isso também é uma dificuldade, uma vez que as informações estão espalhadas e muitas vezes precisamos consultar diversas fontes para resolver uma questão.
 
-Por isso, tentei resumir nesse repositório algumas atividades reais do dia-a-dia que fazem uso de diversos métodos e propriedades do pacote Pandas do Python, desde o mais básico até o avançado, de modo que um grande escopo de informações sobre o Pandas seja abordado.
+Por isso, fiz um resumo nesse repositório de algumas atividades reais do dia-a-dia típico de um trabalho de análise de dados que fazem uso de diversos métodos e propriedades do pacote Pandas do Python, desde o mais básico até o avançado.
 
-Eu acredito que o exemplo ensina muito mais do que a teoria. Então vamos começar!
+Claro que eu não pretendo esgotar o assunto aqui, mas de qualquer modo um grande escopo de informações sobre o Pandas será abordado.
+
+Eu acredito que o exemplo ensina muito mais do que a teoria. Então vamos direto para a prática!
 
 ## Início
 Para ficar bem à vontade e explorar esse repositório, você tem duas opções:
@@ -19,7 +21,7 @@ Para ficar bem à vontade e explorar esse repositório, você tem duas opções:
 Para instalar o Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html<br />
 Para instalar o pacote Pandas: https://pandas.pydata.org/pandas-docs/stable/install.html
 
-## Para contextualizar
+## Contextualização
 Esse repositório acompanha meu vídeo "Usando o Pandas em problemas reais de Data Science".
 
 No vídeo, eu uso o Pandas e o Matplotlib para analisar dados de vendas e solucionar problemas que encontramos no trabalho diariamente.
