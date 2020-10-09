@@ -37,14 +37,14 @@ Uma vez deixada a base bem limpa, com informações consistentes, seguimos para 
 * Qual é o melhor mês de vendas? Qual foi a receita nesse mês?
 * Que cidade teve a maior quantidade de vendas?
 * Em que momento devemos exibir publicidade para maximizar a propensão do cliente em comprar?
-* Quais produtos são mais vendidos em conjunto (bundle)?
 * Qual o produto mais vendido? Avalie o motivo de esse produto ser o mais vendido.
+* Quais produtos são mais vendidos em conjunto (bundle)?
 
 Para isso, vamos usar uma série de métodos e propriedades do Pandas e do Matplotlib:
 * Concatenar multiplos arquivos para criar um único DataFrame.
 * Criar colunas com base em outras.
 * Dividir o conteúdo de colunas em múltiplas novas colunas.
 * Aplicar uma função ao longo de uma ou mais colunas.
-* Agrupar linhas e agregar informação.
-* Transformar colunas.
+* Agrupar linhas e sumarizar informações.
+* Aplicar transformações em agrupamentos de colunas.
 * Gerar gráficos customizados de fácil visualização.
