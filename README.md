@@ -34,11 +34,12 @@ O primeiro passo do nosso trabalho é a limpeza dos dados, que inclui:
 * Alterar tipos de coluna (número, texto, data etc.).
 
 Uma vez deixada a base bem limpa, com informações consistentes, seguimos para a parte de exploração. Aqui vamos focar em questões mais contundentes no que diz respeito aos nossos dados:
-* Qual é o melhor mês de vendas? Qual foi a receita nesse mês?
+* Qual foi o melhor mês de vendas? Quanto foi vendido neste mês?
 * Que cidade teve a maior quantidade de vendas?
-* Em que momento devemos exibir publicidade para maximizar a propensão do cliente em comprar?
+* Em quais horários é maior a probabilidade de receber pedidos de clientes pelos canais de venda?
+* Quantos produtos são vendidos em cada OV? Qual a dispersão dessa taxa ao longo do dia?
 * Qual o produto mais vendido? Avalie o motivo de esse produto ser o mais vendido.
-* Quais produtos são mais vendidos em conjunto (bundle)?
+* Quais produtos são mais vendidos em conjunto (bundle), considerando pelo menos 2 produtos?
 
 Para isso, vamos usar uma série de métodos e propriedades do Pandas e do Matplotlib:
 * Concatenar multiplos arquivos para criar um único DataFrame.
