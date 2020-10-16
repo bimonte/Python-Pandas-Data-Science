@@ -22,7 +22,7 @@ Para instalar o Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/insta
 Para instalar o pacote Pandas: https://pandas.pydata.org/pandas-docs/stable/install.html
 
 ## Contextualização
-Esse repositório acompanha meu vídeo "[Usando o Pandas em problemas reais de Data Science - Parte 1](https://youtu.be/XO2-3cta6EI)" 
+Esse repositório acompanha meu vídeo "[Usando o Pandas em problemas reais de Data Science - Parte 1](https://youtu.be/kvONZOzpDYk)" 
 
 No vídeo, eu uso o Pandas e o Matplotlib para analisar dados de vendas e solucionar problemas que encontramos no trabalho diariamente.
 
