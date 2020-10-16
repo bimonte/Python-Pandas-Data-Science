@@ -22,7 +22,7 @@ Para instalar o Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/insta
 Para instalar o pacote Pandas: https://pandas.pydata.org/pandas-docs/stable/install.html
 
 ## Contextualização
-Esse repositório acompanha meu vídeo "[Usando o Pandas em problemas reais de Data Science - Parte 1](https://youtu.be/g-qbZK22yzY)" 
+Esse repositório acompanha meu vídeo "[Usando o Pandas em problemas reais de Data Science - Parte 1](https://youtu.be/XO2-3cta6EI)" 
 
 No vídeo, eu uso o Pandas e o Matplotlib para analisar dados de vendas e solucionar problemas que encontramos no trabalho diariamente.
 
@@ -42,7 +42,7 @@ Uma vez deixada a base bem limpa, com informações consistentes, seguimos para 
 * Quais produtos são mais vendidos em conjunto (bundle), considerando pelo menos 2 produtos?
 
 Para isso, vamos usar uma série de métodos e propriedades do Pandas e do Matplotlib:
-* Concatenar multiplos arquivos para criar um único DataFrame.
+* Concatenar múltiplos arquivos para criar um único DataFrame.
 * Criar colunas com base em outras.
 * Dividir o conteúdo de colunas em múltiplas novas colunas.
 * Aplicar uma função ao longo de uma ou mais colunas.
